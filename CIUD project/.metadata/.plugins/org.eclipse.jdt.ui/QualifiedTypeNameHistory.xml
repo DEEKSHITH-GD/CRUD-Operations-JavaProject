@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="com.destination.CIUD_app.create.CreateDB"/>
+    <fullyQualifiedTypeName name="com.destination.CIUD_app.dbName.Get_DB_name"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.destination.CIUD_app.createTable.CreateTable"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.destination.CIUD_app.Insert.InsertData"/>
+    <fullyQualifiedTypeName name="com.destionation.CIUD_app.Delete.Delete"/>
+    <fullyQualifiedTypeName name="com.destination.CIUD_app.connect.JDBC_connection"/>
+    <fullyQualifiedTypeName name="com.destionation.CIUD_app.Input.Input"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.destionation.CIUD_app.Input.QueryInput"/>
+    <fullyQualifiedTypeName name="com.destionation.CIUD_app.Input.QueryPlaceHolder"/>
+</qualifiedTypeNameHistroy>

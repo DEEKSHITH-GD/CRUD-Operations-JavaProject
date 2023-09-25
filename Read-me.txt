@@ -1,0 +1,1 @@
+add external jar file of my-sql-connector to connection-module 
